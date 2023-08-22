@@ -1,0 +1,24 @@
+        "Kainos OS"*)
+            set_colors 2 7 
+            read -rd '' ascii_data <<'EOF'
+${c1}       
+       _,,.    =osos1==ososo,_.
+      .<KKKoso,,    ^`~^^""*1oso=,
+      .<KKKKKoKKos,. .        -"1os=.
+    ...<KOSKOSKOSK= osos,       .-{os>.
+   =o>.=KOSK KOSK> osososo>,       -{os,
+  <oK> =KOSKs KOs <ososososos,       <os;
+ =sK>  :oSKOso {l )osososososKo=      <os;
+.oS}-  .{KOSKo;   sososososososos,    -<o(.
+:oK>    <KOSKOs;  +{ososososososos>.   =os;
+=sK=    :KOSKOSo;  -{sososososososo|.  :os=
+:oS>     =KOSKOSo .. +1sosososososos=  =os;
+{Ko.      <KOSKOs. Ko, -<sosososososos <os.
+ +so>     .*KOSKO. {s;  -<osososososo; =1=
+  +So>     .{sKOSo. sos,  -<1osososos; =+
+   +kos,     +KoSo> {soso,   +Iososol`
+    -{So%.     "KOs> {ososo,  .-|1os=
+      -!Kos,.    "!o> {sososo,..  ~~`
+        -"?KKoso,_  -` ~*KosoSos,,
+            -"!*1KKos,,        
+
